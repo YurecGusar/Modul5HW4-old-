@@ -1,0 +1,14 @@
+.user-card{
+    width: 200px;
+    margin: 20px;
+    background-color: rgb(43, 220, 226);
+    border: 5px solid black;
+}
+
+.content{
+    display: flex;
+}
+
+.user-footer{
+    margin-top: 150px;
+}
